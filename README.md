@@ -6,11 +6,11 @@ meteor minimongo $near bug
 
 When start your app your sonsole show the following outputs:
 
-Items found (Before subscribe): 0 
-Items found (After subscribe WITHOUT query): 1
-Items found (After subscribe WITH query): 0
-Items found (After subscribe AND Timeout WITHOUT query: 1
-Items found (After subscribe AND Timeout WITH query: 0 
++ Items found (Before subscribe): 0 
++ Items found (After subscribe WITHOUT query): 1
++ Items found (After subscribe WITH query): 0
++ Items found (After subscribe AND Timeout WITHOUT query: 1
++ Items found (After subscribe AND Timeout WITH query: 0 
 
 
 The Problem
